@@ -11,6 +11,10 @@ This is a full-stack image upload application that allows users to:
 - **Track upload progress** with real-time progress bars and timing information
 - **Handle upload failures** gracefully with status tracking
 
+## Demo
+
+![Application Demo](public/chrome_aFRqvl8tZ2.gif)
+
 ## Upload Flow Architecture
 
 ![Upload Request Cycle](public/upload_request_cycle.drawio.png)
