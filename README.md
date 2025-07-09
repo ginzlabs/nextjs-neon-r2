@@ -2,7 +2,9 @@
 
 This project demonstrates a full image upload flow in a Next.js app using Cloudflare R2 for storage and Neon for storing image metadata in a Postgres database. It includes secure direct-to-R2 uploads with pre-signed URLs, image optimization and size limiting, and a clean UI built with shadcn/ui. The interface features drag-and-drop uploads, live previews, and a simple table displaying image metadata with preview, download, and delete options.
 
-## What This Project Does
+## Demo
+
+![Application Demo](public/chrome_aFRqvl8tZ2.gif)
 
 This is a full-stack image upload application that allows users to:
 - **Upload multiple images** (up to 5 at once) via drag-and-drop or file selection
@@ -10,10 +12,6 @@ This is a full-stack image upload application that allows users to:
 - **View uploaded images** in a responsive table with metadata
 - **Track upload progress** with real-time progress bars and timing information
 - **Handle upload failures** gracefully with status tracking
-
-## Demo
-
-![Application Demo](public/chrome_aFRqvl8tZ2.gif)
 
 ## Upload Flow Architecture
 
