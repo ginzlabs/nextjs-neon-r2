@@ -1,0 +1,1 @@
+ALTER TABLE "images" ADD COLUMN "file_url" text NOT NULL;

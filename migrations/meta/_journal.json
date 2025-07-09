@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1751884923909,
+      "tag": "0000_harsh_callisto",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1751889088044,
+      "tag": "0001_normal_trauma",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752071218731,
+      "tag": "0002_strong_paibok",
+      "breakpoints": true
+    }
+  ]
+}
